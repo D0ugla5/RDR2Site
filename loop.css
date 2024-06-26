@@ -1,0 +1,21 @@
+h1, h2 {
+    color: red;
+    height: 30;
+    border-radius: 10px;
+    text-decoration: overline;
+}
+img{
+    border: 10px solid red;
+    border-radius: 5px ;
+}
+p{
+    color: whitesmoke;
+    height: 20;
+    width: 20;
+    text-align: center;
+}
+html{
+    background-color: black;
+    cursor: url('/Loop/RDR2Site/img/pixil-frame-0.png') 32 32, auto; /* Ajuste as coordenadas x e y conforme necessário */
+
+}
